@@ -57,5 +57,4 @@ cd ~/parking/q_learning/gazebo_sim/demo
 python agent.py
 ```
 
-A [presentation report](https://github.com/CTTC/Automatic-Parking/blob/master/report/automatic_parking_report.pdf) is available.
 Demo videos are available at [here](http://www.youtube.com/watch?v=7TTNzaAgquk) and [here](http://www.youtube.com/watch?v=drZen5vugfw)
